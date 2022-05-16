@@ -1,0 +1,44 @@
+.container{
+    border: 2px solid black;
+    width: 400px;
+    border-radius: 20px;
+    background-color: burlywood;
+}
+#component{
+    position: absolute;
+    left: 300px;
+    bottom:80px;
+    background-color:lightcoral;
+}
+#functional{
+    position: relative;
+    top: 300px;
+    left: 800px;
+    background-color: blueviolet;
+}
+p{
+    color: aqua;
+    text-align: center;
+}
+.but1,
+.but2{
+    background-color: lightblue;
+    height: 40px;
+    width: 300px;
+    margin-left: -280px;
+    border-radius: 25px;
+}
+.but2{
+    position:absolute;
+    top: 85px;
+    left: 1100px;
+}
+body{
+    background: linear-gradient(lightblue,pink,lightyellow);
+    height: 100vh;
+    
+}
+h1{
+    text-align: center;
+    
+}
